@@ -1,10 +1,16 @@
-import ScrambleWords from "@/components/others/ScrambleWords";
-import Image from "next/image";
+import ScrambleWords from '@/components/others/ScrambleWords'
+import Image from 'next/image'
+import style from './sticky.module.css'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-neutral-950">
-      <ScrambleWords text={"Javier Pizarro Ortega"}/>
+    <main className={style.mainContainer}>
+      <div className={style.stickyContainer}>
+        <ScrambleWords text={'Javier Pizarro Ortega'} />
+      </div>
+      <div className={style.movingContainer}>
+        HOLIS
+      </div>
     </main>
-  );
+  )
 }

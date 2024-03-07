@@ -1,0 +1,21 @@
+.stickyContainer {
+  position: sticky;
+  top: 0;
+  max-height: 100dvh;
+}
+
+.movingContainer {
+  overflow-y: auto;
+  height: 2000px;
+}
+
+.mainContainer & .movingContainer {
+  width: 50%;
+  background: rgb(15 23 42/1);
+}
+
+.mainContainer {
+  justify-content: space-between;
+  display: flex;
+  width: 100%;
+}

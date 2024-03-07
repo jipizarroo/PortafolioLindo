@@ -1,0 +1,74 @@
+{
+  "job1": [
+    {
+      "title": "Front-end Developer",
+      "company": "Scotiabank Chile",
+      "date": [
+        {
+          "es": "Octubre 2022 - Presente",
+          "en": "October 2022 - Present"
+        }
+      ],
+      "description": [
+        {
+          "es": "Parte del equipo a cargo de la nueva estructura de los nuevos Microfront-ends en lo que será la nueva web privada del banco. Creador del nuevo Cascarón de la web, que este sea compatible con la tecnología antigua y moderna del banco, mejorar los tiempos de carga, mejorar la experiencia de desarrollo de todos los equipos del banco. \n Creador del template de los nuevos Microfront-ends organizados con Module-Federation y Webpack 5. \n Contribuidor y soporte de los otros equipos trabajando en Microfront-ends de la nueva iniciativa de la nueva web.",
+          "en": "Part of the team responsible for the new structure of the Microfront-ends in what will be the bank’s new private website. I designed the new shell of the web, ensuring compatibility with both the bank’s old and modern technologies, aiming to improve loading times by 30%, and enhancing the development experience for all bank teams. I also created the template for the new Microfront-ends organized with Module-Federation and Webpack 5. \n Creator of the template for the new Microfront-ends organized with Module-Federation and Webpack 5. \n Contributor and support for other teams working on Microfront-ends within the new initiative for the upcoming website."
+        }
+      ]
+    }
+  ],
+  "job2": [
+    {
+      "title": "Front-end Developer",
+      "company": "2Brains for Monte Piedad Mexico",
+      "date": [
+        {
+          "es": "Octubre 2021 - Octubre 2022",
+          "en": "October 2021 - October 2022"
+        }
+      ],
+      "description": [
+        {
+          "es": "Desarrollar un Design System con Web Components Accesibles desde 0, no solo la programación, sino que desde el descubrimiento de los componentes ocupados en múltiples páginas de Monte Piedad, la discusión con los distintos UX a la implementación en distintas webs.",
+          "en": "Developing a Design System with Accessible Web Components from scratch involves not only programming but also discovering the components used across multiple pages of Monte Piedad. It includes discussions with various UX teams and the implementation on different websites."
+        }
+      ]
+    }
+  ],
+  "job3": [
+    {
+      "title": "Full-Stack Developer",
+      "company": "eClass",
+      "date": [
+        {
+          "es": "Marzo 2021 - Octubre 2021",
+          "en": "March 2021 - October 2021"
+        }
+      ],
+      "description": [
+        {
+          "es": "Desarrollar, solucionar problemas y probar la API principal de eClass, permitiendo la resolución de múltiples tickets abiertos por el Servicio de Atención al Cliente debido a diversos problemas. \n Dar mi opinión en la creación de distintos calls de API debido a mis conocimientos del front-end de eClass.",
+          "en": "Desarrollar, arreglar bugs y testear la API principal de eClass, permitiendo cerrar varios tickets abiertos por distintos problemas creados por Customer service. \n Provide my opinion in the creation of different API calls based on my front-end expertise in eClass."
+        }
+      ]
+    }
+  ],
+  "job4": [
+    {
+      "title": "Front-end Developer",
+      "company": "eClass",
+      "date": [
+        {
+          "es": "Marzo 2020 - Marzo 2021",
+          "en": "March 2020 - March 2021"
+        }
+      ],
+      "description": [
+        {
+          "es": "Desarrollamos la nueva plataforma de eClass desarrollada con React, en un intenso trabajo desarrollado con el equipo de UX/UI se creó una plataforma para los usuarios muy moderna en comparación a la antigua web de eClass. \n Parte del equipo que desarrolló los estándares de código, estilo y testeo para la nueva web de eClass",
+          "en": "We developed the new eClass platform using React, engaging in intensive collaboration with the UX/UI team. The result is a highly modern platform for users compared to the old eClass website. \n Part of the team that established the code, style, and testing standards for the new eClass website."
+        }
+      ]
+    }
+  ]
+}
